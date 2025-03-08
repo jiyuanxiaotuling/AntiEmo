@@ -1,0 +1,16 @@
+python -m uvicorn main:app
+
+
+appid="659e9b50",
+api_secret="MmQ5MTYwNjExZmFiMGJhMzk3NzY1NjY1",
+api_key="5a1b34a30d042d2af5897c177e7ab0f2",
+#appid、api_secret、api_key三个服务认证信息请前往开放平台控制台查看（https://console.xfyun.cn/services/bm35）
+Spark_url="wss://spark-api.xf-yun.com/v1.1/chat",      # Max环境的地址
+# Spark_url = "wss://spark-api.xf-yun.com/v4.0/chat"  # 4.0Ultra环境的地址
+# Spark_url = "wss://spark-api.xf-yun.com/v3.1/chat"  # Pro环境的地址
+# Spark_url = "wss://spark-api.xf-yun.com/v1.1/chat"  # Lite环境的地址
+# domain="generalv3.5",     # Max版本
+# domain = "4.0Ultra"     # 4.0Ultra 版本
+# domain = "generalv3"    # Pro版本
+domain="lite",      # Lite版本址
+        query="你好"
