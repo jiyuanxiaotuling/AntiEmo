@@ -1,0 +1,11 @@
+Model Information:
+* title:	Valance 21 King's raid
+* source:	https://sketchfab.com/3d-models/valance-21-kings-raid-f79854a92cc74805b915b83303a29f7b
+* author:	ilyakardailskiy (https://sketchfab.com/ilyakardailskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Valance 21 King's raid" (https://sketchfab.com/3d-models/valance-21-kings-raid-f79854a92cc74805b915b83303a29f7b) by ilyakardailskiy (https://sketchfab.com/ilyakardailskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
